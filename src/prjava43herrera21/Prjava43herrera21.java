@@ -25,7 +25,7 @@ public Prjava43herrera21 () {
     // "this" Frame fires WindowEvent its registered WindowEvent listener
     // "this" Frame adds "this" object as a WindowEvent listener
     setTitle("prjava43cognom21"); // "this" Frame sets title
-    setSize(250, 100); // "this" Frame sets initial size
+    setSize(450, 100); // "this" Frame sets initial size
     setVisible(true); // "this" Frame shows
 }
 /** The entry main() method */
